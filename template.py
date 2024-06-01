@@ -35,9 +35,6 @@ list_of_files = [
     ".dockerignore"
 ]
 
-
-
-
 for filepath in list_of_files:
     filepath = Path(filepath)
 
